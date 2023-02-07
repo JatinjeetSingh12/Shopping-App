@@ -1,0 +1,14 @@
+import { StyleSheet, Text, View } from 'react-native'
+import React from 'react'
+
+const Emptycart = () => {
+  return (
+    <View>
+      <Text>Cart</Text>
+    </View>
+  )
+}
+
+export default Emptycart
+
+const styles = StyleSheet.create({})
